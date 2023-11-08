@@ -1,2 +1,2 @@
-# interfazdegoogle
-Copia de interfaz de Google
+# HomePageGoogle
+Copia de página de inicio de Google
